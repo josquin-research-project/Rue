@@ -18,6 +18,7 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)	*met(O)
+!!incipit: 3
 !!section: Et in terra pax
 !!!OMD: Et in terra pax
 =1-	=1-	=1-	=1-	=1-
@@ -166,7 +167,7 @@
 1F	2r	1c	[1f	.
 .	2c\	.	.	2a/
 =18	=18	=18	=18	=18
-!	!	!LO:TX:Y=66:t=Gloriari Oportet	!	!
+!	!	!LO:TX:Y=26:t=Gloriari Oportet	!	!
 2r	1d	0.B-	1f]	0b-
 2BB-/	.	.	.	.
 2.BB-/	2d\	.	1r	.
