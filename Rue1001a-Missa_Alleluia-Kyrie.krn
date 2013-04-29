@@ -20,9 +20,9 @@
 *met(O)	*met(O)	*met(O)	*met(O)	*met(O)
 !!section: Kyrie I
 !!!OMD: Kyrie I
-!	!	!LO:TX:Z=29:t=Crescit in duplo	!	!
 *	*	*rscale:1/2	*	*
 =1-	=1-	=1-	=1-	=1-
+!	!	!LO:TX:Z=8:X=-60:t=Crescit in duplo	!	!
 0.r	0.r	0.r	1F	0.r
 .	.	.	1B-	.
 .	.	.	1B-	.
@@ -175,10 +175,11 @@
 *clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M2/1	*M2/1	*M2/1	*M2/1	*M2/1
-*met(C|)	*met(C|)	*met(C|)	*met(C|)	*met(C|)
+*met(C|)	*met(C|)	*met(O)	*met(C|)	*met(C|)
 !!section: Christe
 !!!OMD: Christe
 *	*	*rscale:1/4	*	*
+!	!	!LO:N:vis=0	!	!
 0r	[0F	0r	1.c	1.f
 .	.	.	4B-\	4e/
 .	.	.	4A/	4d/
@@ -209,6 +210,7 @@
 .	.	.	2d\	.
 .	.	.	1f	1d
 =25	=25	=25	=25	=25
+!	!	!LO:N:vis=1	!	!
 0GG	1.G	0r	2.g\	2r
 .	.	.	.	1b-
 .	.	.	4f\	.
@@ -221,7 +223,8 @@
 .	2C/	.	2e\	2cc\
 .	[2F\	.	[2c\	[2a/
 =27	=27	=27-	=27	=27
-0r	2F\]	0ryy	2c\]	2a/]
+!	!	!LO:N:vis=1	!	!
+0r	2F\]	0r	2c\]	2a/]
 .	4E\	.	2.f\	4g/
 .	4D\	.	.	4f/
 .	2.F\	.	.	2a/
@@ -234,6 +237,7 @@
 .	2r	.	[1d	2d/
 .	[2D\	.	.	[2f/
 =29	=29	=29-	=29	=29
+!	!	!LO:N:vis=1	!	!
 0r	2D\]	[y0F	1d]	2f/]
 .	4C/	.	.	4e/
 .	4BB-/	.	.	4d/
@@ -244,6 +248,7 @@
 2r	2BB-/	.	1B-	1d
 [2BB-/	[2D\	.	.	.
 =31	=31	=31	=31	=31
+!	!	!LO:N:vis=1	!	!
 2BB-/]	2D\]	[y0B-	1d	0r
 4AA/	4C/	.	.	.
 4GG/	4BB-/	.	.	.
@@ -254,6 +259,7 @@
 1GG	1BB-	.	.	.
 [2BB-/	[2D\	.	.	.
 =33	=33	=33-	=33	=33
+!	!	!LO:N:vis=1	!	!
 2BB-/]	2D\]	[y0B-	[0d	1r
 4AA/	4C/	.	.	.
 4GG/	4BB-/	.	.	.
@@ -267,6 +273,7 @@
 .	.	.	.	2f/
 .	.	.	.	2g/
 =35	=35	=35-	=35	=35
+!	!	!LO:N:vis=1	!	!
 0D_	0r	[y0A	[0d	2a/
 .	.	.	.	1d
 .	.	.	.	[2f/
@@ -276,30 +283,32 @@
 .	.	.	.	4d/
 .	1D	.	.	1f
 =37	=37	=37	=37	=37
-1GG	2D\	[0G	1B-	0g
+!	!	!LO:N:vis=0	!	!
+1GG	2D\	[y0G	1B-	0g
 .	1E	.	.	.
 [1C	.	.	2.c\	.
 .	4D\	.	.	.
 .	4C/	.	4B-\	.
 =38	=38	=38-	=38	=38
-2C/]	2E\	0G_	2G/	0r
+2C/]	2E\	0G_yy	2G/	0r
 4BB-/	2F\	.	2c\	.
 4AA/	.	.	.	.
 2GG/	2G\	.	2B-\	.
 [2G\	[2C/	.	2c\	.
 =39	=39	=39-	=39	=39
-2G\]	2C/]	0G_	2G/	0r
+2G\]	2C/]	0G_yy	2G/	0r
 1C	1E	.	2.c\	.
 .	.	.	4B-\	.
 4BB-/	4D\	.	4G/	.
 4AA/	4C/	.	4A/	.
 =40	=40	=40-	=40	=40
-0GG	2.E\	0G]	2B-\	1r
+0GG	2.E\	0G]yy	2B-\	1r
 .	.	.	1c	.
 .	4F\	.	.	.
 .	1G	.	.	1d
 .	.	.	2Bni\	.
 =41	=41	=41-	=41	=41
+!	!	!LO:N:vis=1	!	!
 0r	2r	[y0c	1c	1.e
 .	1C	.	.	.
 .	.	.	1r	.
@@ -318,6 +327,7 @@
 .	.	.	2d\	.
 .	.	.	2e\	.
 =44	=44	=44-	=44	=44
+!	!	!LO:N:vis=1	!	!
 2FF/	1AA	[y0c	1f	2a/
 1AA	.	.	.	1cc
 .	1FF	.	2f\	.
@@ -335,6 +345,7 @@
 2r	1F	.	1c	.
 2FF/	.	.	.	.
 =47	=47	=47-	=47	=47
+!	!	!LO:N:vis=1	!	!
 1C	1E	[y0G	1.c	2r
 .	.	.	.	2c/
 [1C	[1E	.	.	2.g/
@@ -347,8 +358,10 @@
 1GG	2.BB-/	.	2d\	1b-
 .	.	.	2e\	.
 .	4AA/	.	.	.
-=49	=49	=49	=49	=49
 *	*	*rscale:1	*	*
+=49	=49	=49	=49	=49
+*	*	*M2/1	*	*
+*	*	*met(C|)	*	*
 0FF	1.C	1.A	1.f	1a
 .	.	.	.	1r
 .	2BB-/	2B-\	4e\	.
@@ -555,6 +568,6 @@
 !!!ENC:	Megan K. Eagen 1/11/2012
 !!!END:	2012/11/18/
 !!!EED:	Jesse Rodin
-!!!EEV:	2012/12/15/
+!!!EEV:	2013/04/27/
 !!!ONB:	Translated from MusicXML and edited on 2012/12/15/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,100Q8
