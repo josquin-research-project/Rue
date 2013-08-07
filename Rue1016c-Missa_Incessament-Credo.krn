@@ -11,8 +11,8 @@
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
-*I"Bassus II	*I"Bassus I	*I"Tenor	*I"Contra	*I"Discantus
-*I'B	*I'B	*I'T	*I'C	*I'D
+*I"Bassus2	*I"Bassus1	*I"Tenor	*I"Contra	*I"Discantus
+*I'B2	*I'B1	*I'T	*I'C	*I'D
 *>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]	*>[A,B,C]
 *>A	*>A	*>A	*>A	*>A
 *clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2

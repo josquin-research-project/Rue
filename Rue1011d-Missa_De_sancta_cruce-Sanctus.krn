@@ -258,8 +258,8 @@
 *k[b-]	*k[b-]	*k[b-]	*k[b-]	*k[b-]
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(O)	*met(O)	*met(O)	*met(O)	*met(O)
-!!section: Pleni sunt caeli
-!!!OMD: Pleni sunt caeli
+!!section: Pleni sunt celi
+!!!OMD: Pleni sunt celi
 0.r	0.r	0.r	0.r	2.f/
 .	.	.	.	4g/
 .	.	.	.	2a/
