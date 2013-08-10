@@ -19,7 +19,7 @@
 *M2/1	*M2/1	*M2/1	*M2/1
 *met(C|)	*met(C|)	*met(C|)	*met(C|)
 =1-	=1-	=1-	=1-
-!	!	!	!LO:TX:X=-40:Z=8:t=[A one-flat signature in all voices is apparently needed.]
+!	!	!	!LO:TX:X=-40:Z=8:t=[In all voices, a one-flat signature is apparently needed.]
 !!section: Et exsultavit
 !!!OMD: Et exsultavit
 1c	1c	0r	0r
@@ -1619,4 +1619,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/08/05/
 !!!ONB:	Translated from MusicXML and edited on 2013/08/05/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,85,100Q16
+!!muse2ps: C^@{COM}^i2I150v85,85,85,100Q1c80

@@ -26,7 +26,7 @@
 !! Here MenC3 is functioning probably like a slowed-down MenCutC3 (rather than 
 !! like MenCDot, which is more common). So classify this in its own tempo category, 
 !! with a tempo of about whole=100.
-!!LO:X=-30:Z=8:t=MenC3
+!!LO:TX:X=-30:Z=8:t=MenC3
 0.r	0.r	0.r	1.G	1.B-
 .	.	.	2A\	2c\
 .	.	.	1B-	1d

@@ -4,8 +4,8 @@
 !!!ONM:	7
 !!!OTL:	Communio I
 !!!AGN:	Mass; Communio I
-!!!SCT:	Rue1024g
-!!!SCA:	Rue1024g
+!!!SCT:	Rue1024g.a
+!!!SCA:	Rue1024g.a
 !!!voices:	4
 **kern	**kern	**kern	**kern
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -41,12 +41,13 @@
 1D]	1A]	1d]	1f]
 1GG	1B	1d	1g
 =8	=8	=8	=8
-[0GGl	[0Bl	[0dl	[0gl
-=	=	=	=
-0GG]	0B]	0d]	0g]
-=9	=9	=9	=9
+0GGl	0Bl	0dl	0gl
+=9||	=9||	=9||	=9||
+*>B	*>B	*>B	*>B
 *M3/1	*M3/1	*M3/1	*M3/1
 *met(3)	*met(3)	*met(3)	*met(3)
+!!section: Cum sanctis
+!!!OMD: Cum sanctis
 0.r	0.r	0d	0.r
 .	.	1f	.
 =10	=10	=10	=10
@@ -124,8 +125,9 @@
 =28	=28	=28	=28
 0GGl	0G]	0Bl	0dl
 !!LO:LB:i:g=z
+!!LO:TX:rj:i:Y=40:t=fine
 =29||	=29||	=29||	=29||
-*>B	*>B	*>B	*>B
+*>C	*>C	*>C	*>C
 *clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]
 *M2/1	*M2/1	*M2/1	*M2/1

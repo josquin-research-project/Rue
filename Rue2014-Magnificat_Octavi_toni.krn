@@ -773,7 +773,7 @@
 .	.	.	4f/
 .	.	1g	3e/V
 .	.	.	3f/
-.	.	.	3g/z
+.	.	.	3g/Z
 =145	=145	=145	=145
 0r	0r	2g\	2c/
 .	.	4c\	2.g/
@@ -1510,7 +1510,7 @@
 .	2B\	.	.
 =286	=286	=286	=286
 1C	1c	1e	1a]
-0BBn	0d	0g	0b
+0BBni	0d	0g	0b
 =287	=287	=287	=287
 1AA	0c	1e	1.cc
 0FF	.	1.f	.
@@ -1635,4 +1635,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/08/05/
 !!!ONB:	Translated from MusicXML and edited on 2013/08/05/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,85,120Q8c90
+!!muse2ps: C^@{COM}^i2I150v85,85,85,120Q1c190

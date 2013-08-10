@@ -18,12 +18,13 @@
 *clefF4	*clefF4	*clefGv2	*clefGv2	*clefG2
 *k[]	*k[]	*k[]	*k[]	*k[]
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
-*met(C3)	*met(O)	*met(3)	*met(C3)	*met(3)
+*met(C3)	*met(C3)	*met(3)	*met(C3)	*met(3)
 !!primary-mensuration: met(C3)
 =1-	=1-	=1-	=1-	=1-
-!!section: Rex gloriae
-!!!OMD: Rex gloriae
+!!section: Rex glorie
+!!!OMD: Rex glorie
 !!dominant mensuration should be MenC3 (the faster, MenCutC3 sort of MenC3, that is)
+!LO:TX:Z=8:X=-40:t=MenC3	!	!	!LO:TX:Z=8:X=-40:t=MenC3	!
 0.r	0.r	0.r	0c	0e
 .	.	.	1B	1d
 =2	=2	=2	=2	=2
@@ -293,8 +294,9 @@
 *M3/1	*M3/1	*M3/1	*M3/1	*M3/1
 *met(C3)	*met(O)	*met(3)	*met(C3)	*met(3)
 !!primary-mensuration: met(C3)
-!!section: Quam olim Abrahae
-!!!OMD: Quam olim Abrahae
+!!section: Quam olim Abrahe
+!!!OMD: Quam olim Abrahe
+!LO:TX:Z=8:X=-40:t=MenC3	!	!	!LO:TX:Z=8:X=-40:t=MenC3	!
 0D	0.r	0D	0d	0.r
 1GG	.	1D	1B	.
 =64	=64	=64	=64	=64
@@ -392,6 +394,7 @@
 *met(C3)	*met(C3)	*met(C3)	*met(C3)	*met(C3)
 !!section: Tu suscipe
 !!!OMD: Tu suscipe
+!!LO:TX:Z=8:X=-40:t=MenC3
 0AA	0.r	[0.E	0.r	0.r
 1BB	.	.	.	.
 =78	=78	=78	=78	=78
