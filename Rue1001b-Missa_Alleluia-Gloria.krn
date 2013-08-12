@@ -20,10 +20,10 @@
 *met(O)	*met(O)	*met(O)	*met(O)	*met(O)
 !!section: Et in terra pax
 !!!OMD: Et in terra pax
-!	!	!LO:TX:X=-40:Z=8:t=Crescit in duplo	!	!
 *	*	*rscale:1/2	*	*
 =1-	=1-	=1-	=1-	=1-
 !	!	!LO:N:vis=0.	!	!
+!	!	!LO:TX:X=-40:Z=8:t=Crescit in duplo	!	!
 0.r	0.r	0.r	1r	1.f
 .	.	.	1r	.
 .	.	.	.	2g/
