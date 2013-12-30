@@ -24,9 +24,7 @@
 !	!	!LO:TX:X=-40:Z=28:t=Fuga in dyathesarum 	!	!
 !	!	!LO:TX:X=-40:Z=8:t=Canon at the lower fourth (one breve)	!	!
 =1-	=1-	=1-	=1-	=1-
-.	.	.	.	0.r
-.	.	.	0D	.
-1.D	0.r	0.r	.	.
+1.D	0.r	0.r	0D	0.r
 2C/	.	.	.	.
 1BB	.	.	1D	.
 =2	=2	=2	=2	=2
