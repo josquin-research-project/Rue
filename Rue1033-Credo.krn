@@ -940,7 +940,7 @@
 *met(3)	*met(3)	*met(3)	*met(3)
 !!The score should show "3" -- but for classification purposes, 
 !! this mensuration is really C3, not Cut-C3 (since the preceding 
-!! mensuration is C). C3 shoudl be classified together with C-dot.
+!! mensuration is C). C3 should be classified together with C-dot.
 !!primary-mensuration: met(C3)
 2.E\	1G	1r	1g
 4F\	.	.	.
@@ -1020,4 +1020,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/08/05/
 !!!ONB:	Translated from MusicXML and edited on 2013/08/05/ by Craig Sapp
-!!muse2ps: C^@{COM}^i2I150v85,85,85,100Q16
+!!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16

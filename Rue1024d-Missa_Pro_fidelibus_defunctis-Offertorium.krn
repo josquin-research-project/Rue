@@ -24,7 +24,6 @@
 !!section: Rex glorie
 !!!OMD: Rex glorie
 !!dominant mensuration should be MenC3 (the faster, MenCutC3 sort of MenC3, that is)
-!LO:TX:Z=8:X=-40:t=MenC3	!	!	!LO:TX:Z=8:X=-40:t=MenC3	!
 0.r	0.r	0.r	0c	0e
 .	.	.	1B	1d
 =2	=2	=2	=2	=2
@@ -296,7 +295,6 @@
 !!primary-mensuration: met(C3)
 !!section: Quam olim Abrahe
 !!!OMD: Quam olim Abrahe
-!LO:TX:Z=8:X=-40:t=MenC3	!	!	!LO:TX:Z=8:X=-40:t=MenC3	!
 0D	0.r	0D	0d	0.r
 1GG	.	1D	1B	.
 =64	=64	=64	=64	=64
@@ -394,7 +392,6 @@
 *met(C3)	*met(C3)	*met(C3)	*met(C3)	*met(C3)
 !!section: Tu suscipe
 !!!OMD: Tu suscipe
-!!LO:TX:Z=8:X=-40:t=MenC3
 0AA	0.r	[0.E	0.r	0.r
 1BB	.	.	.	.
 =78	=78	=78	=78	=78
@@ -636,4 +633,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/08/02/
 !!!ONB:	Translated from MusicXML and edited on 2013/08/02/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,130Q16

@@ -24,9 +24,8 @@
 !!!OMD: Kyrie I
 =1-	=1-	=1-	=1-	=1-
 !! Here MenC3 is functioning probably like a slowed-down MenCutC3 (rather than 
-!! like MenCDot, which is more common). So classify this in its own tempo category, 
-!! with a tempo of about whole=100.
-!!LO:TX:X=-30:Z=8:t=MenC3
+!! like MenCDot, which is more common). So classify this in its own tempo 
+!! category, with a tempo of about whole=100.
 0.r	0.r	0.r	1.G	1.B-
 .	.	.	2A\	2c\
 .	.	.	1B-	1d
@@ -284,4 +283,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/08/02/
 !!!ONB:	Translated from MusicXML and edited on 2013/08/02/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,130Q16

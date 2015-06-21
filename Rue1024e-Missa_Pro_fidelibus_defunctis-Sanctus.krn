@@ -122,7 +122,6 @@
 *met(C3)	*met(C3)	*met(C3)	*met(C3)	*met(C3)
 !!section: Pleni sunt celi
 !!!OMD: Pleni sunt celi
-!!LO:TX:Z=8:X=-40:t=MenC3
 0.r	0.r	0.r	0d	0f
 .	.	.	1B	1g
 =23	=23	=23	=23	=23
@@ -430,4 +429,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/08/02/
 !!!ONB:	Translated from MusicXML and edited on 2013/08/02/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,100Q16
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,130Q16

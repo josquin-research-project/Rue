@@ -636,7 +636,6 @@
 *met(C3)	*met(C3)	*met(C3)	*met(C3)
 !!section: Agnus Dei III
 !!!OMD: Agnus Dei III
-!!LO:TX:X=-30:Z=8:t=MenC3
 !	!LO:TX:X=-40:Z=8:t=4-ex-1 canon at the lower 5th/upper 8ve/upper 4th (2/6/8 breves)	!	!
 0.r	0D	0.r	0.r
 .	1D	.	.
@@ -892,4 +891,4 @@
 !!!EED:	Jesse Rodin
 !!!EEV:	2013/08/02/
 !!!ONB:	Translated from MusicXML and edited on 2013/08/02/ by Craig Sapp
-!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,100Q16c120
+!!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16c120
