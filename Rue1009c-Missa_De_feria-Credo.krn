@@ -1232,11 +1232,11 @@
 *M2/1	*M3/3%2	*M2/1	*M2/1	*M2/1
 *met(C|)	*met()	*met(C|)	*met(C|)	*met(C|)
 !!primary-mensuration: met(C|)
-!	!LO:N:vis:0.	!	!	!
+!	!LO:N:vis=0.	!	!	!
 [0GG	[0G	1r	1D	0B
 .	.	1d	1D	.
 =229	=229	=229	=229	=229
-!	!LO:N:vis:0.	!	!	!
+!	!LO:N:vis=0.	!	!	!
 0GG]	0G]	0d	1D	1r
 .	.	.	2G/	1b
 .	.	.	2A/	.
