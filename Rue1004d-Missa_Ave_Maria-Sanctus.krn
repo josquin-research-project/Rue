@@ -1,13 +1,13 @@
-!!!COM:	la Rue, Pierre de
-!!!CDT:	~1452///-1518/11/20
-!!!OPR:	Missa Ave Maria
-!!!ONM:	4
-!!!OTL:	Sanctus
-!!!AGN:	Mass; Sanctus
-!!!SCT:	Rue1004d
-!!!SCA:	Rue1004d
-!!!voices:	4
-!!!voices-OPR:	4(-5)
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OPR: Missa Ave Maria
+!!!ONM: 4
+!!!OTL: Sanctus
+!!!AGN: Mass; Sanctus
+!!!SCT: Rue1004d
+!!!SCA: Rue1004d
+!!!voices: 4
+!!!voices-OPR: 4(-5)
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1012,9 +1012,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 12-04-2012
-!!!END:	2013/05/24/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/07/19/
-!!!ONB:	Translated from MusicXML and edited on 2013/07/19/ by Craig Sapp
+!!!ENC: Chris Gage 12-04-2012
+!!!END: 2013/05/24/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/07/19/
+!!!ONB: Translated from MusicXML and edited on 2013/07/19/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16c70

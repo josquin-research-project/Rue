@@ -1,13 +1,13 @@
-!!!COM:	la Rue, Pierre de
-!!!CDT:	~1452///-1518/11/20
-!!!OPR:	Missa De sancta cruce
-!!!ONM:	3
-!!!OTL:	Credo
-!!!AGN:	Mass; Credo
-!!!SCT:	Rue1011c
-!!!SCA:	Rue1011c
-!!!voices:	5
-!!!voices-OPR:	5
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OPR: Missa De sancta cruce
+!!!ONM: 3
+!!!OTL: Credo
+!!!AGN: Mass; Credo
+!!!SCT: Rue1011c
+!!!SCA: Rue1011c
+!!!voices: 5
+!!!voices-OPR: 5
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -1249,9 +1249,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 10-08-2012
-!!!END:	2012/10/13/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/10/13/
-!!!ONB:	Translated from MusicXML and edited on 2012/10/13/ by Craig Sapp
+!!!ENC: Chris Gage 10-08-2012
+!!!END: 2012/10/13/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/10/13/
+!!!ONB: Translated from MusicXML and edited on 2012/10/13/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,130Q16

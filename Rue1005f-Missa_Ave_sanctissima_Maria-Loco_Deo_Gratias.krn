@@ -1,13 +1,13 @@
-!!!COM:	la Rue, Pierre de
-!!!CDT:	~1452///-1518/11/20
-!!!OPR:	Missa Ave sanctissima Maria
-!!!ONM:	6
-!!!OTL:	Loco Deo Gratias
-!!!AGN:	Mass; Loco Deo Gratias
-!!!SCT:	Rue1005f
-!!!SCA:	Rue1005f
-!!!voices:	5
-!!!voices-OPR:	6(-5)
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OPR: Missa Ave sanctissima Maria
+!!!ONM: 6
+!!!OTL: Loco Deo Gratias
+!!!AGN: Mass; Loco Deo Gratias
+!!!SCT: Rue1005f
+!!!SCA: Rue1005f
+!!!voices: 5
+!!!voices-OPR: 6(-5)
 **kern	**kern	**kern	**kern	**kern
 *staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -175,9 +175,9 @@
 *-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 01-02-2013
-!!!END:	2013/07/19/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/07/19/
-!!!ONB:	Translated from MusicXML and edited on 2013/07/19/ by Craig Sapp
+!!!ENC: Chris Gage 01-02-2013
+!!!END: 2013/07/19/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/07/19/
+!!!ONB: Translated from MusicXML and edited on 2013/07/19/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,130Q16

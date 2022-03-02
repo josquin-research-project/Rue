@@ -1,13 +1,13 @@
-!!!COM:	la Rue, Pierre de
-!!!CDT:	~1452///-1518/11/20
-!!!OPR:	Missa Pro fidelibus defunctis
-!!!ONM:	4
-!!!OTL:	Offertorium
-!!!AGN:	Mass; Offertorium
-!!!SCT:	Rue1024d
-!!!SCA:	Rue1024d
-!!!voices-OPR:	5
-!!!voices:	5
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OPR: Missa Pro fidelibus defunctis
+!!!ONM: 4
+!!!OTL: Offertorium
+!!!AGN: Mass; Offertorium
+!!!SCT: Rue1024d
+!!!SCA: Rue1024d
+!!!voices-OPR: 5
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor2	*I"Tenor	*I"Contra	*I"Discantus
@@ -628,9 +628,9 @@
 *-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 04-23-2013
-!!!END:	2013/08/01/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/02/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/02/ by Craig Sapp
+!!!ENC: Chris Gage 04-23-2013
+!!!END: 2013/08/01/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/02/
+!!!ONB: Translated from MusicXML and edited on 2013/08/02/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,130Q16

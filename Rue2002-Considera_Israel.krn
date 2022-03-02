@@ -1,10 +1,10 @@
-!!!COM:	la Rue, Pierre de
-!!!CDT:	~1452///-1518/11/20
-!!!OTL:	Considera Israel
-!!!AGN:	Motet
-!!!SCT:	Rue2002
-!!!SCA:	Rue2002
-!!!voices:	4
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OTL: Considera Israel
+!!!AGN: Motet
+!!!SCT: Rue2002
+!!!SCA: Rue2002
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -1396,9 +1396,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Chris Gage 12-06-2012
-!!!END:	2013/07/18/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/07/20/
-!!!ONB:	Translated from MusicXML and edited on 2013/07/20/ by Craig Sapp
+!!!ENC: Chris Gage 12-06-2012
+!!!END: 2013/07/18/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/07/20/
+!!!ONB: Translated from MusicXML and edited on 2013/07/20/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,150Q16

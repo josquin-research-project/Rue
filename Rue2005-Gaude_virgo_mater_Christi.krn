@@ -1,10 +1,10 @@
-!!!COM:	la Rue, Pierre de
-!!!CDT:	~1452///-1518/11/20
-!!!OTL:	Gaude virgo mater Christi
-!!!AGN:	Motet
-!!!SCT:	Rue2005
-!!!SCA:	Rue2005
-!!!voices:	4
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OTL: Gaude virgo mater Christi
+!!!AGN: Motet
+!!!SCT: Rue2005
+!!!SCA: Rue2005
+!!!voices: 4
 **kern	**text	**kern	**text	**kern	**text	**kern	**text
 *staff4	*staff4	*staff3	*staff3	*staff2	*staff2	*staff1	*staff1
 *Ivox	*	*Ivox	*	*Ivox	*	*Ivox	*
@@ -1031,9 +1031,9 @@
 *-	*-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Chris Gage 01-02-2013
-!!!END:	2015/06/16/
-!!!EED:	Jesse Rodin
-!!!EEV:	2015/06/17/
-!!!ONB:	Translated from MusicXML and edited on 2015/06/17/ by Craig Sapp
+!!!ENC: Jesse Rodin; Chris Gage 01-02-2013
+!!!END: 2015/06/16/
+!!!EED: Jesse Rodin
+!!!EEV: 2015/06/17/
+!!!ONB: Translated from MusicXML and edited on 2015/06/17/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v90,90,90,130Q1c130z18

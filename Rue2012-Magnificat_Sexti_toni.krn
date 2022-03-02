@@ -1,10 +1,10 @@
-!!!COM:	la Rue, Pierre de
-!!!CDT:	~1452///-1518/11/20
-!!!OTL:	Magnificat Sexti toni
-!!!AGN:	Motet
-!!!SCT:	Rue2012
-!!!SCA:	Rue2012
-!!!voices:	7
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OTL: Magnificat Sexti toni
+!!!AGN: Motet
+!!!SCT: Rue2012
+!!!SCA: Rue2012
+!!!voices: 7
 **kern	**kern	**kern	**kern	**kern	**kern	**kern
 *staff7	*staff6	*staff5	*staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox	*Ivox
@@ -1646,9 +1646,9 @@
 *-	*-	*-	*-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Megan K. Eagen 2013/01/22
-!!!END:	2013/01/22/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/05/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/05/ by Craig Sapp
+!!!ENC: Megan K. Eagen 2013/01/22
+!!!END: 2013/01/22/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/05/
+!!!ONB: Translated from MusicXML and edited on 2013/08/05/ by Craig Sapp
 !!muse2ps: C^@{COM}^i2I150v85,85,85,85,85,85,100Q16

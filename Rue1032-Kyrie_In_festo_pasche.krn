@@ -1,10 +1,10 @@
-!!!COM:	la Rue, Pierre de
-!!!CDT:	~1452///-1518/11/20
-!!!OTL:	Kyrie In festo pasche
-!!!AGN:	Mass section; Kyrie
-!!!SCT:	Rue1032
-!!!SCA:	Rue1032
-!!!voices:	4
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OTL: Kyrie In festo pasche
+!!!AGN: Mass section; Kyrie
+!!!SCT: Rue1032
+!!!SCA: Rue1032
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *staff4	*staff3	*staff2	*staff1
 *Ivox	*Ivox	*Ivox	*Ivox
@@ -855,10 +855,10 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Jesse Rodin; Victoria Chang 2012/01/29
-!!!END:	2012/01/29/
-!!!EED:	Jesse Rodin
-!!!EEV:	2012/03/20/
+!!!ENC: Jesse Rodin; Victoria Chang 2012/01/29
+!!!END: 2012/01/29/
+!!!EED: Jesse Rodin
+!!!EEV: 2012/03/20/
 !!attribution-level: 3 (other)
-!!!ONB:	Translated from MusicXML and edited on 2012/03/20/ by Craig Sapp
+!!!ONB: Translated from MusicXML and edited on 2012/03/20/ by Craig Sapp
 !!muse2ps: C^@{COM}\n@{SCT}^i2I150v95,95,95,150Q16

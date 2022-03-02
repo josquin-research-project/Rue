@@ -1,13 +1,13 @@
-!!!COM:	la Rue, Pierre de
-!!!CDT:	~1452///-1518/11/20
-!!!OPR:	Missa De Sancto Job
-!!!ONM:	1
-!!!OTL:	Kyrie
-!!!AGN:	Mass; Kyrie
-!!!SCT:	Rue1013a
-!!!SCA:	Rue1013a
-!!!voices-OPR:	4
-!!!voices:	4
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OPR: Missa De Sancto Job
+!!!ONM: 1
+!!!OTL: Kyrie
+!!!AGN: Mass; Kyrie
+!!!SCT: Rue1013a
+!!!SCA: Rue1013a
+!!!voices-OPR: 4
+!!!voices: 4
 **kern	**kern	**kern	**kern
 *Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor	*I"Contratenor	*I"Discantus
@@ -596,9 +596,9 @@
 *-	*-	*-	*-
 !!!RDF**kern: l=long note in original notation
 !!!RDF**kern: i=editorial accidental
-!!!ENC:	Megan K. Eagen 2013/01/20
-!!!END:	2013/01/20/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/04/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/04/ by Craig Sapp
+!!!ENC: Megan K. Eagen 2013/01/20
+!!!END: 2013/01/20/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/04/
+!!!ONB: Translated from MusicXML and edited on 2013/08/04/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,150Q16

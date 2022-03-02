@@ -1,13 +1,13 @@
-!!!COM:	la Rue, Pierre de
-!!!CDT:	~1452///-1518/11/20
-!!!OPR:	Missa Conceptio tua
-!!!ONM:	3
-!!!OTL:	Credo
-!!!AGN:	Mass; Credo
-!!!SCT:	Rue1006c
-!!!SCA:	Rue1006c
-!!!voices-OPR:	5
-!!!voices:	5
+!!!COM: la Rue, Pierre de
+!!!CDT: ~1452///-1518/11/20
+!!!OPR: Missa Conceptio tua
+!!!ONM: 3
+!!!OTL: Credo
+!!!AGN: Mass; Credo
+!!!SCT: Rue1006c
+!!!SCA: Rue1006c
+!!!voices-OPR: 5
+!!!voices: 5
 **kern	**kern	**kern	**kern	**kern
 *Ivox	*Ivox	*Ivox	*Ivox	*Ivox
 *I"Bassus	*I"Tenor2	*I"Tenor1	*I"Contra	*I"Discantus
@@ -1357,9 +1357,9 @@
 !!!RDF**kern: i=editorial accidental
 !!!RDF**kern: V=start of tuplet marker
 !!!RDF**kern: Z=end of tuplet marker
-!!!ENC:	Chris Gage 01-03-2013
-!!!END:	2013/07/20/
-!!!EED:	Jesse Rodin
-!!!EEV:	2013/08/02/
-!!!ONB:	Translated from MusicXML and edited on 2013/08/02/ by Craig Sapp
+!!!ENC: Chris Gage 01-03-2013
+!!!END: 2013/07/20/
+!!!EED: Jesse Rodin
+!!!EEV: 2013/08/02/
+!!!ONB: Translated from MusicXML and edited on 2013/08/02/ by Craig Sapp
 !!muse2ps: T^@{OPR}^u^@{ONM}{. }@{OTL}^C^@{COM}^i2I150v85,85,85,85,130Q16
